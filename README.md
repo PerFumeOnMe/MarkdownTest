@@ -45,7 +45,7 @@ GPT 기반 분석, 키워드 검색, 설문 등 다양한 방법을 통해 사�
 ## 🎥 데모 & 미리보기
 | 메인 화면 | 향수 상세 | 추천 화면 |
 |-----------|-----------|-----------|
-| ![메인 화면](/main.png) | ![향수 상세](images/detail.png) | ![추천 화면](images/recommend.png) |
+| ![메인 화면](/main.png) | ![향수 상세](/detail.png) | ![추천 화면](/recommend.png) |
 
 ![기능 시연](images/demo.gif)
 
