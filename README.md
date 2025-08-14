@@ -70,10 +70,9 @@ GPT 기반 분석, 키워드 검색, 설문 등 다양한 방법을 통해 사�
 **Frontend**
 - React  
 - TailwindCSS  
-- Vite  
 
 **Backend**
-- Node.js (Express)  
+- Spring Boot
 - MongoDB  
 
 **Design**
